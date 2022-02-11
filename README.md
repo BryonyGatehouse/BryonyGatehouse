@@ -17,7 +17,7 @@
 - [NWEN241](https://github.com/BryonyGatehouse/NWEN241)	(Systems Programming)
 - [NWEN243](https://github.com/BryonyGatehouse/NWEN243)	(Network Applications)
 - [SWEN221](https://github.com/BryonyGatehouse/SWEN221)	(Software Development)
-- SWEN225	(Software Design)
+- [SWEN225](https://github.com/BryonyGatehouse/SWEN225)	(Software Design)
 
 ### Third Year
 - CYBR372	(Applications of Cryptography)
