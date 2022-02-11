@@ -1,3 +1,5 @@
+This GitHub contains examples and explantaions of projects that I've completed while studying for the Victoria University of Wellington's Bacholer of Engineering with Honours. Not all projects are mentioned.
+
 [Summer of Tech Profile](https://github.com/BryonyGatehouse/Summer-of-Tech-Profile-Condensed) ([A Summer Internship Support Program](https://summeroftech.co.nz))
 
 ### First Year
