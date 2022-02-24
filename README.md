@@ -22,7 +22,7 @@ This GitHub contains examples and explantaions of projects that I've completed w
 - [SWEN225](https://github.com/BryonyGatehouse/SWEN225)	(Software Design)
 
 ### Third Year
-- CYBR372	(Applications of Cryptography)
+- [CYBR372](https://github.com/BryonyGatehouse/CYBR372)	(Applications of Cryptography)
 - ENGR301	(Engineering Project Management 1)
 - ENGR302	(Engineering Project Management 2)
 - SWEN301	(Structured Methods)	
