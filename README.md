@@ -3,14 +3,14 @@ This GitHub contains examples and explantaions of projects that I've completed w
 [Summer of Tech Profile](https://github.com/BryonyGatehouse/Summer-of-Tech-Profile-Condensed) ([A Summer Internship Support Program](https://summeroftech.co.nz))
 
 ### First Year
-- CGRA151 (Intro to Computer Graphics)
-- COMP102 (Intro to Computer Programming Design)
-- COMP103 (Intro to Data Structure and Algorithms)
-- CYBR171 (Cybersecurity Fundamentals)
+- [CGRA151]() (Intro to Computer Graphics)
+- [COMP102]() (Intro to Computer Programming Design)
+- [COMP103]() (Intro to Data Structure and Algorithms)
+- [CYBR171]() (Cybersecurity Fundamentals)
 - [ENGR101](https://github.com/BryonyGatehouse/ENGR101) (Engineering Technology)
 - [ENGR110](https://github.com/BryonyGatehouse/ENGR110) (Engineering Modelling and Design)
-- ENGR121 (Engineering Math Foundations)
-- ENGR123 (Engineering Math with Logic and Stats)
+- [ENGR121]() (Engineering Math Foundations)
+- [ENGR123]() (Engineering Math with Logic and Stats)
 
 ### Second Year
 - [COMP261](https://github.com/BryonyGatehouse/COMP261)	(Algorithms and Data Structures)
