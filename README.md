@@ -25,10 +25,10 @@ This GitHub contains examples and explantaions of projects that I've completed w
 - [CYBR372](https://github.com/BryonyGatehouse/CYBR372)	(Applications of Cryptography)
 - [ENGR301](https://github.com/BryonyGatehouse/ENGR300)	(Engineering Project Management 1)
 - [ENGR302](https://github.com/BryonyGatehouse/ENGR300)	(Engineering Project Management 2)
-- [SWEN301]()	(Structured Methods)	
-- [SWEN303]()	(User Interface Design)
-- [SWEN324]()	(Software Correctness)
-- [SWEN325]()	(Software Development for Mobile)
+- [SWEN301](https://github.com/BryonyGatehouse/SWEN301)	(Structured Methods)	
+- [SWEN303](https://github.com/BryonyGatehouse/SWEN303)	(User Interface Design)
+- [SWEN324](https://github.com/BryonyGatehouse/SWEN324)	(Software Correctness)
+- [SWEN325](https://github.com/BryonyGatehouse/SWEN325)	(Software Development for Mobile)
 - [SWEN326]()	(Safety-Critical Systems)
 
 ### Fourth Year
