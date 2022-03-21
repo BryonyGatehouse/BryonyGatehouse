@@ -3,14 +3,14 @@ This GitHub contains examples and explantaions of projects that I've completed w
 [Summer of Tech Profile](https://github.com/BryonyGatehouse/Summer-of-Tech-Profile-Condensed) ([A Summer Internship Support Program](https://summeroftech.co.nz))
 
 ### First Year
-- [CGRA151]() (Intro to Computer Graphics)
-- [COMP102]() (Intro to Computer Programming Design)
-- [COMP103]() (Intro to Data Structure and Algorithms)
-- [CYBR171]() (Cybersecurity Fundamentals)
+- [~~CGRA151~~](https://github.com/BryonyGatehouse/CGRA151) (Intro to Computer Graphics)
+- [~~COMP102~~](https://github.com/BryonyGatehouse/COMP102) (Intro to Computer Programming Design)
+- [~~COMP103~~](https://github.com/BryonyGatehouse/COMP103) (Intro to Data Structure and Algorithms)
+- [~~CYBR171~~](https://github.com/BryonyGatehouse/ENGR101) (Cybersecurity Fundamentals)
 - [ENGR101](https://github.com/BryonyGatehouse/ENGR101) (Engineering Technology)
 - [ENGR110](https://github.com/BryonyGatehouse/ENGR110) (Engineering Modelling and Design)
-- [ENGR121]() (Engineering Math Foundations)
-- [ENGR123]() (Engineering Math with Logic and Stats)
+- [~~ENGR121~~](https://github.com/BryonyGatehouse/ENGR121) (Engineering Math Foundations)
+- [~~ENGR123~~](https://github.com/BryonyGatehouse/ENGR123) (Engineering Math with Logic and Stats)
 
 ### Second Year
 - [COMP261](https://github.com/BryonyGatehouse/COMP261)	(Algorithms and Data Structures)
@@ -29,13 +29,13 @@ This GitHub contains examples and explantaions of projects that I've completed w
 - [SWEN303](https://github.com/BryonyGatehouse/SWEN303)	(User Interface Design)
 - [SWEN324](https://github.com/BryonyGatehouse/SWEN324)	(Software Correctness)
 - [SWEN325](https://github.com/BryonyGatehouse/SWEN325)	(Software Development for Mobile)
-- [SWEN326]()	(Safety-Critical Systems)
+- [SWEN326](https://github.com/BryonyGatehouse/SWEN326)	(Safety-Critical Systems)
 
 ### Fourth Year
-- [AIML420]()	(Artificial Intelligence)
-- [CYBR472]()	(Digital Forensics)
-- [ENGR401]()	(Professional Practice)
-- [ENGR489]()	(Engineering Project)
-- [SWEN423]()	(Design: Patterns, Frameworks & Language)
-- [SWEN431]()	(Advanced Programming Languages)
-- [SWEN438]()	(Special Topic DevOps)
+- [AIML420](https://github.com/BryonyGatehouse/AIML420)	(Artificial Intelligence)
+- [CYBR472](https://github.com/BryonyGatehouse/CYBR472)	(Digital Forensics)
+- [ENGR401](https://github.com/BryonyGatehouse/ENGR401)	(Professional Practice)
+- [~~ENGR489~~](https://github.com/BryonyGatehouse/ENGR489)	(Engineering Project)
+- [~~SWEN423~~](https://github.com/BryonyGatehouse/SWEN423)	(Design: Patterns, Frameworks & Language)
+- [~~SWEN431~~](https://github.com/BryonyGatehouse/SWEN431)	(Advanced Programming Languages)
+- [~~SWEN438~~](https://github.com/BryonyGatehouse/SWEN438)	(Special Topic DevOps)
