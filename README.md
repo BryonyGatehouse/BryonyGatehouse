@@ -13,7 +13,7 @@ This GitHub contains examples and explantaions of projects that I've completed w
 - [~~ENGR123~~](https://github.com/BryonyGatehouse/ENGR123) (Engineering Math with Logic and Stats)
 
 ### Second Year
-- [Algorithms and Data Structures](https://github.com/BryonyGatehouse/Algorithms and Data Structures)
+- [Algorithms and Data Structures](https://github.com/BryonyGatehouse/University-Algorithms-Data)
 - [Secure Programming](https://github.com/BryonyGatehouse/University-Secure-Programming)
 - [Engineering in Context](https://github.com/BryonyGatehouse/University-Engineering-Context)
 - [Systems Programming](https://github.com/BryonyGatehouse/University-Systems-Programming)
