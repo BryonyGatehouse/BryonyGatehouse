@@ -33,7 +33,7 @@ This GitHub contains examples and explantaions of projects that I've completed w
 
 ### Fourth Year
 - [Artificial Intelligence](https://github.com/BryonyGatehouse/University-Artificial-Intelligence)
-- [Digital Forensics](https://github.com/BryonyGatehouse/University-Digial-Forensics)
+- [Digital Forensics](https://github.com/BryonyGatehouse/University-Digital-Forensics)
 - [Professional Practice](https://github.com/BryonyGatehouse/University-Professional-Practise)
 - [~~ENGR489~~](https://github.com/BryonyGatehouse/ENGR489)	(Engineering Project)
 - [Design: Patterns, Frameworks & Language](https://github.com/BryonyGatehouse/University-Design-Patterns)
