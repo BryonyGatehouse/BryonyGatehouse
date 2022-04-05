@@ -3,14 +3,14 @@ This GitHub contains examples and explantaions of projects that I've completed w
 [Summer of Tech Profile](https://github.com/BryonyGatehouse/Summer-of-Tech-Profile-Condensed) ([A Summer Internship Support Program](https://summeroftech.co.nz))
 
 ### First Year
-- [~~CGRA151~~](https://github.com/BryonyGatehouse/CGRA151) (Intro to Computer Graphics)
-- [~~COMP102~~](https://github.com/BryonyGatehouse/COMP102) (Intro to Computer Programming Design)
-- [~~COMP103~~](https://github.com/BryonyGatehouse/COMP103) (Intro to Data Structure and Algorithms)
-- [~~CYBR171~~](https://github.com/BryonyGatehouse/ENGR101) (Cybersecurity Fundamentals)
+- Intro to Computer Graphics
+- Intro to Computer Programming Design
+- Intro to Data Structure and Algorithms
+- Cybersecurity Fundamentals
 - [Engineering Technology](https://github.com/BryonyGatehouse/University-Engineering-Technology)
 - [Engineering Modelling and Design](https://github.com/BryonyGatehouse/University-Engineering-Modelling)
-- [~~ENGR121~~](https://github.com/BryonyGatehouse/ENGR121) (Engineering Math Foundations)
-- [~~ENGR123~~](https://github.com/BryonyGatehouse/ENGR123) (Engineering Math with Logic and Stats)
+- Engineering Math Foundations
+- Engineering Math with Logic and Stats
 
 ### Second Year
 - [Algorithms and Data Structures](https://github.com/BryonyGatehouse/University-Algorithms-Data)
@@ -35,7 +35,7 @@ This GitHub contains examples and explantaions of projects that I've completed w
 - [Artificial Intelligence](https://github.com/BryonyGatehouse/University-Artificial-Intelligence)
 - [Digital Forensics](https://github.com/BryonyGatehouse/University-Digital-Forensics)
 - [Professional Practice](https://github.com/BryonyGatehouse/University-Professional-Practise)
-- [~~ENGR489~~](https://github.com/BryonyGatehouse/ENGR489)	(Engineering Project)
+- Engineering Project
 - [Design: Patterns, Frameworks & Language](https://github.com/BryonyGatehouse/University-Design-Patterns)
-- [~~SWEN431~~](https://github.com/BryonyGatehouse/SWEN431)	(Advanced Programming Languages)
-- [~~SWEN438~~](https://github.com/BryonyGatehouse/SWEN438)	(Special Topic DevOps)
+- Advanced Programming Languages
+- Special Topic DevOps
