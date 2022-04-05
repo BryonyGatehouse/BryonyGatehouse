@@ -3,14 +3,14 @@ This GitHub contains examples and explantaions of projects that I've completed w
 [Summer of Tech Profile](https://github.com/BryonyGatehouse/Summer-of-Tech-Profile-Condensed) ([A Summer Internship Support Program](https://summeroftech.co.nz))
 
 ### First Year
-- Intro to Computer Graphics
-- Intro to Computer Programming Design
-- Intro to Data Structure and Algorithms
-- Cybersecurity Fundamentals
+- [Intro to Computer Graphics](https://github.com/BryonyGatehouse/University-Graphics)
+- [Intro to Computer Programming Design](https://github.com/BryonyGatehouse/University-Intro-Comp-Design)
+- [Intro to Data Structure and Algorithms](https://github.com/BryonyGatehouse/University-Data-Struct-Algthms)
+- [Cybersecurity Fundamentals](https://github.com/BryonyGatehouse/University-Cyber-Fundamentals)
 - [Engineering Technology](https://github.com/BryonyGatehouse/University-Engineering-Technology)
 - [Engineering Modelling and Design](https://github.com/BryonyGatehouse/University-Engineering-Modelling)
-- Engineering Math Foundations
-- Engineering Math with Logic and Stats
+- [Engineering Math Foundations](https://github.com/BryonyGatehouse/University-Math-Foundations)
+- [Engineering Math with Logic and Stats](https://github.com/BryonyGatehouse/University-Math-Logic-Stats)
 
 ### Second Year
 - [Algorithms and Data Structures](https://github.com/BryonyGatehouse/University-Algorithms-Data)
