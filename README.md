@@ -35,7 +35,7 @@ This GitHub contains examples and explantaions of projects that I've completed w
 - [Artificial Intelligence](https://github.com/BryonyGatehouse/University-Artificial-Intelligence)
 - [Digital Forensics](https://github.com/BryonyGatehouse/University-Digital-Forensics)
 - [Professional Practice](https://github.com/BryonyGatehouse/University-Professional-Practise)
-- Engineering Project
+- [Engineering Project](https://github.com/BryonyGatehouse/University-Project)
 - [Design: Patterns, Frameworks & Language](https://github.com/BryonyGatehouse/University-Design-Patterns)
 - Advanced Programming Languages
 - Special Topic DevOps
